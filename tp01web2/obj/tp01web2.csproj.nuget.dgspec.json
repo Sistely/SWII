@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sistely\\Desktop\\SWII\\SWII-TP-01\\tp01web2\\tp01web2.csproj": {}
+    "C:\\Users\\Sistely\\Desktop\\SWII\\SWII_TP_01\\tp01web2\\tp01web2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sistely\\Desktop\\SWII\\SWII-TP-01\\tp01web2\\tp01web2.csproj": {
+    "C:\\Users\\Sistely\\Desktop\\SWII\\SWII_TP_01\\tp01web2\\tp01web2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sistely\\Desktop\\SWII\\SWII-TP-01\\tp01web2\\tp01web2.csproj",
+        "projectUniqueName": "C:\\Users\\Sistely\\Desktop\\SWII\\SWII_TP_01\\tp01web2\\tp01web2.csproj",
         "projectName": "tp01web2",
-        "projectPath": "C:\\Users\\Sistely\\Desktop\\SWII\\SWII-TP-01\\tp01web2\\tp01web2.csproj",
+        "projectPath": "C:\\Users\\Sistely\\Desktop\\SWII\\SWII_TP_01\\tp01web2\\tp01web2.csproj",
         "packagesPath": "C:\\Users\\Sistely\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sistely\\Desktop\\SWII\\SWII-TP-01\\tp01web2\\obj\\",
+        "outputPath": "C:\\Users\\Sistely\\Desktop\\SWII\\SWII_TP_01\\tp01web2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

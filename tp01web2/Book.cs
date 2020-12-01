@@ -35,21 +35,21 @@ namespace tp01web
         public override string ToString()
         {
 
-            string lol2 = "";
+            string lista2 = "";
 
             foreach (Author a in Authors)
             {
-                lol2 += $"[name={a.Name},email={a.Email},gender={a.Gender}]";
+                lista2 += $"[name={a.Name},email={a.Email},gender={a.Gender}]";
 
                 if (a != Authors.Last())
                 {
-                    lol2 += ",";
+                    lista2 += ",";
                 }
             }
   
-            string lol = "Book[" + Name + ",authors={Authors"+ lol2 + "},price="+ Price + ",qty=" + Qty + "]";
+            string lista1 = "Book[" + Name + ",authors={Authors"+ lista2 + "},price="+ Price + ",qty=" + Qty + "]";
 
-            return lol;
+            return lista1;
         }
         public string getAuthorNames()
         {
