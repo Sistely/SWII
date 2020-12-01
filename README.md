@@ -4,7 +4,7 @@ Trabalho da disciplina de Sistemas Web 2.
 
 ### Captura de tela da aplicação
 #### PrintPrompt
-![Funcionamento do app](https://github.com/Sistely/SWII/blob/master/Prints/Print%20Prompt.png)
+![Funcionamento do app](https://github.com/Sistely/SWII/blob/master/Prints/PrintPrompt.png)
 
 #### Print Browser - Nome do Livro
 ![Funcionamento do app](https://github.com/Sistely/SWII/blob/master/Prints/NomeLivro.png)
