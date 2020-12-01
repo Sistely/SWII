@@ -1,5 +1,5 @@
 # Trabalho Prático 1  
-## Autore: Sistely Nazareth  
+## Autor: Sistely Nazareth  
 Trabalho da disciplina de Sistemas Web 2.  
 
 ### Captura de tela da aplicação
